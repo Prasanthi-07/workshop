@@ -17,3 +17,5 @@
 ***From Bangtan Sonyeondan***
 # link readme file
 [click Me] ("www.aec.edu.in")
+# img in readme file
+![img]("img.jpg")
